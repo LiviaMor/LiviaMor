@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Ao+Universo+e+Além)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Ao+Universo+e+Além!)](https://git.io/typing-svg)
 
 <sub> Olá, me chamo Lívia, para alguns Scarlet.</sub>
 
@@ -8,7 +8,7 @@
 
 <sub> No momento estudo a Linguagem Java e sempre procuro complementar com cursos na Udemy, Dio e livros </sub>
 
-<sub> Como hobby, gosto de fazer "lives" em plataformas como Twitch e Tiktok, com conteúdos como Valorant e ADS.</sub>
+<sub></sub>
 
 ### Formação  
 - Ortodontista (Formação em 2008)

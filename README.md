@@ -1,4 +1,4 @@
-## Ao Universo e a Além! 🌛
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Ao+Universo+e+Além)](https://git.io/typing-svg)
 
 <sub> Olá, me chamo Lívia, para alguns Scarlet.</sub>
 

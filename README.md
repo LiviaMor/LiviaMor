@@ -39,7 +39,7 @@ Minha paixão por Cibersegurança me guia na proteção de dados sensíveis. Sou
 ---
 ---
 
-## 🇬🇧 English (Markdown)
+## 🇬🇧 English
 
 ### ✨ Orthodontist & Developer: Driving Secure Digital Transformation in Healthcare
 

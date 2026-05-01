@@ -1,26 +1,194 @@
-# 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=To++Universe+and+Beyond!)](https://git.io/typing-svg)<br><br>
+<div align="center">
 
-## 🇧🇷 Português<br><br>### ✨ Ortodontista & Desenvolvedora: Transformação Digital e Segurança na Saúde<br><br>Minha trajetória é a união da Saúde com a Tecnologia. Sou **Ortodontista e Empreendedora** com mais de 10 anos de experiência, agora alavancando esse profundo conhecimento do setor no Desenvolvimento de Software.<br><br>Minha vivência empreendedora na área da saúde me expôs diretamente aos gargalos de processos e à desconexão entre aplicações e a real necessidade do cliente. Por isso, minha missão é clara: **transformar o ecossistema de saúde com sistemas inteligentes, seguros e verdadeiramente centrados no usuário.**<br><br>---<br><br>#### Cibersegurança: Proteção de Dados Sensíveis (LGPD)<br><br>Minha paixão por Cibersegurança me guia na proteção de dados sensíveis. Sou **certificada pela Fortinet** (em fundamentos de cibersegurança e análise de ameaças) e busco constantemente aprimoramento em **segurança de aplicações**, **conformidade com a LGPD** e **análise de vulnerabilidades**.<br><br>#### Habilidades Empreendedoras<br><br>* **Gestão de Dados Sensíveis:** Experiência no manuseio ético e seguro de informações confidenciais.<br>* **Análise Estratégica:** Capacidade de tomada de decisão, organização de processos e foco na experiência do cliente.<br>* **Foco no Usuário:** Entendimento aguçado das necessidades para desenvolver soluções que geram valor.<br><br>---<br><br>#### Portfólio de Projetos Focados em Otimização e Saúde<br><br>| Projeto | Descrição | Tecnologias Chave |<br>| :--- | :--- | :--- |<br>| **Sistema de Monitoramento IoT** | Desenvolvimento de um sensor (Arduino) para monitoramento de Luminosidade, Umidade e Temperatura. Dados em tempo real enviados ao MySQL via JSerialComm. Base para monitoramento predial/comercial. | Arduino, MySQL, JSerialComm (Java). |<br>| **Sistema de Gestão: SpringBoot Consultório** | Aplicação web de gestão administrativa e de pacientes, ideal para microempreendedores da saúde. | Spring Boot (Backend), Web Básico. |<br>| **Sistema de Controle de Manufatura** | Aplicação responsiva (CRUD) para gerenciamento de pedidos em ateliê de costura. | React Native, AsyncStorage. |<br><br>#### 🎓 Formação Acadêmica<br><br>* Tecnólogo em Análise e Desenvolvimento de Sistemas – PUC Goiás<br>* Especialização em Ortodontia – Instituto Peres<br>* Bacharelado em Odontologia – UNITPAC<br><br>---<br>---<br><br>## 🇬🇧 English<br><br>### ✨ Orthodontist & Developer: Driving Secure Digital Transformation in Healthcare<br><br>My career path is the convergence of Healthcare and Technology. I am an **Orthodontist and Entrepreneur** with over 10 years of experience in the health sector, now leveraging this deep domain knowledge in Software Development.<br><br>My entrepreneurial experience in healthcare exposed me directly to process bottlenecks and the disconnect between applications and the client's actual needs. Therefore, my mission is clear: **to transform healthcare processes through intelligent, secure, and truly user-centric systems.**<br><br>---<br><br>#### Cybersecurity: Protecting Sensitive Data (LGPD/Data Privacy)<br><br>My passion for Cybersecurity drives my focus on protecting sensitive data. I am **Fortinet certified** (in cybersecurity fundamentals and threat analysis) and continuously pursue proficiency in **application security**, **LGPD/data privacy compliance**, and **vulnerability analysis**.<br><br>#### Entrepreneurial Soft Skills for Tech<br><br>* **Sensitive Data Management:** Experience in the ethical and secure handling of confidential information.<br>* **Strategic Analysis:** Strong decision-making, process organization, and customer experience focus.<br>* **User Focus:** Keen understanding of user/patient needs to develop value-generating solutions.<br><br>---<br><br>####  Project Portfolio Focused on Optimization and Health<br><br>| Project | Description | Key Technologies |<br>| :--- | :--- | :--- |<br>| **IoT Monitoring System** | Developed an Arduino-based sensor for monitoring Light, Humidity, and Temperature. Real-time data sent to MySQL via JSerialComm. Foundation for building/commercial monitoring. | Arduino, MySQL, JSerialComm (Java). |<br>| **Management System: SpringBoot Clinic** | Web application for administrative and patient management, optimized for micro-entrepreneurs in healthcare. | Spring Boot (Backend), Basic Web. |<br>| **Manufacturing Control System** | Responsive CRUD application for managing orders in a sewing atelier (a general process management solution). | React Native, AsyncStorage. |<br><br>#### 🎓 Academic Background<br><br>* Technology in Systems Analysis and Development – PUC Goiás<br>* Specialization in Orthodontics – Instituto Peres<br>* Bachelor's Degree in Dentistry – UNITPAC<br><br>---<br><br>## 🚀 Skills & Tools<br><br>![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)<br>![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)<br>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)<br>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)<br><br><br>
+<img src="./unicorn.svg" width="220" alt="Unicórnio Galáctico"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Ao+Universo+e+Al%C3%A9m!)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/liviamor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin/in/liviamor) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@aliviamor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@LiviaMorBR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liviamor01@hotmail.com) 
+# Lívia Mor
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LiviaMor&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=LiviaMor&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LiviaMor&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Software Developer · Health Tech Specialist · Cybersecurity Enthusiast**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+*Founder @ LIFE IA · AWS Women User Group Goiânia Leader*
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LiviaMor&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviamor)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liviamor01@hotmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@LiviaMorBR)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@aliviamor)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=LiviaMor&color=6DB33F&style=flat-square)](https://github.com/LiviaMor)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=LiviaMor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 About Me
+
+Sou **Ortodontista e Desenvolvedora de Software** com mais de 10 anos de experiência empreendedora no setor de saúde. Essa trajetória única me dá uma perspectiva rara: **entendo os problemas clínicos de dentro e construo as soluções tecnológicas do zero**.
+
+Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar a regulação de leitos hospitalares no SUS — porque sei exatamente onde estão os gargalos.
+
+> *"I don't just code for healthcare. I lived it for 10+ years."*
+
+---
+
+## 🚀 What I Bring to a Team
+
+| | |
+|---|---|
+| 🏥 **Health Tech Domain** | Especialista com vivência clínica real — traduzo necessidades do setor em soluções de software eficientes |
+| 🤖 **AI & Cloud** | IA Generativa com AWS Bedrock, Cloud Computing e arquiteturas modernas orientadas a dados de saúde |
+| 🔐 **Cybersecurity** | Fortinet Certified + Cisco · Pentest · LGPD/Data Privacy · Infraestrutura segura |
+| 🌐 **Community Leader** | Líder do AWS Women User Group Goiânia · Referência em comunidade tech |
+| 🎯 **Product Mindset** | De founder a dev — foco em impacto real, não só em código |
+
+---
+
+## 💼 Experience
+
+### 🏗️ Founder & Software Developer — LIFE IA Regulação Autônoma
+> Sistema inteligente com IA para **automatizar a gestão de leitos hospitalares no SUS**, reduzindo filas e otimizando o fluxo de pacientes.
+
+- Tradução de gargalos clínicos complexos em lógica de programação para saúde pública
+- Arquitetura orientada a IA com foco em escalabilidade e conformidade com LGPD
+- Integração com **DataSUS** e sistemas de regulação hospitalar
+
+`Java` `Spring Boot` `AWS Bedrock` `IA Generativa` `Cloud` `DataSUS`
+
+---
+
+### 🦷 Clinic AI — Freelance
+> Plataforma completa de gestão inteligente para clínicas odontológicas e profissionais de saúde.
+
+- Arquitetura moderna de **microserviços** para reduzir retrabalho e automatizar processos críticos
+- Aumento de eficiência operacional projetado em **20%**
+- UX construída com base em experiência clínica real (frontlines)
+
+`Spring Boot` `Microservices` `React` `MySQL`
+
+---
+
+### 📋 Task Manager
+> Sistema de gerenciamento de projetos estilo **Kanban**, com deploy em produção.
+
+- Pipeline CI/CD completo com deploy automatizado na Vercel
+
+`React` `TypeScript` `CI/CD` `Vercel`
+
+---
+
+### 🌡️ IoT Healthcare Monitoring — Health Tech Solutions
+> Hardware + software para **monitoramento ambiental em tempo real** em ambientes clínicos.
+
+- Sensor Arduino para Luminosidade, Temperatura e Umidade
+- Dados enviados em tempo real para banco MySQL via JSerialComm (Java)
+
+`Arduino (C++)` `Java` `JSerialComm` `MySQL` `IoT`
+
+---
+
+### 🧵 Sistema de Controle de Manufatura — Freelance
+> Aplicação CRUD responsiva para gerenciamento de pedidos em ateliê de costura — solução replicável para gestão de processos em pequenos negócios.
+
+`React Native` `AsyncStorage` `Firebase`
+
+---
+
+## 🛠️ Skills
+
+**Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Cloud, AI & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Security & Tools**
+
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🏅 Certifications & Training
+
+| Área | Certificação | Carga |
+|---|---|:---:|
+| ☁️ **Cloud & DevOps** | Formação AWS & IA — Oregon EAD | 100h |
+| ☁️ **Cloud & DevOps** | Workshop DevOps na Nuvem — Kenery Serain | 16h |
+| 🔐 **Cybersecurity** | **Fortinet Certified Fundamentals** *(válido até 2027)* | — |
+| 🔐 **Cybersecurity** | Introduction to Cybersecurity & Threat Management — Cisco/SENAI | — |
+| 🔐 **Cybersecurity** | Santander Bootcamp Cibersegurança + DIO Cybersecurity Specialist | 50h |
+| ☕ **Java & Backend** | GFT Start #7 Java + NTT DATA Java e IA | 119h |
+| ☕ **Java & Backend** | API REST com Spring Web, JDBC, Estrutura de Dados | — |
+| 🤖 **AI & Generative AI** | Fundamentos de IA Generativa com AWS Bedrock — Nexa/DIO | 37h |
+
+---
+
+## 🎓 Education
+
+| Curso | Instituição | Período |
+|---|---|---|
+| 💻 Análise e Desenvolvimento de Sistemas | PUC Goiás, Goiânia | 08/2024 – 12/2026 |
+| ☁️ Formação AWS — Henrylle Maia | Oregon EAD | 10/2026 |
+| 🦷 Especialização em Ortodontia | Instituto Peres | — |
+| 🎓 Bacharelado em Odontologia | UNITPAC | — |
+
+---
+
+## 🌍 Languages
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 English — Intermediário
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=LiviaMor&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=LiviaMor&theme=cobalt&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=LiviaMor&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=LiviaMor&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+
+---
+
+<div align="center">
+
+### 🤝 Open to opportunities in Health Tech · Backend · AI · Cybersecurity
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviamor)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liviamor01@hotmail.com)
+
+*"Transforming healthcare with intelligent, secure, and human-centered systems."*
+
+</div>

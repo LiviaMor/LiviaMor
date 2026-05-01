@@ -173,20 +173,11 @@ Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar 
 
 </div>
 
----
-
-## 🔝 Top Contributed Repositories
-
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=LiviaMor&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
-
----
-
 <div align="center">
 
-### 🤝 Open to opportunities in Health Tech · Backend · AI · Cybersecurity
+### 🤝 Open to opportunities in AWS · DevOpvs · Backend · Health Tech · AI ###
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviamor)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liviamor01@hotmail.com)
 
 *"Transforming healthcare with intelligent, secure, and human-centered systems."*
 

@@ -20,7 +20,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 Sou **Desenvolvedora de Software** com mais de 10 anos de experiência empreendedora no setor de saúde. Essa trajetória única me dá uma perspectiva rara: **entendo os problemas clínicos de dentro e construo as soluções tecnológicas do zero**.
 
@@ -30,21 +30,21 @@ Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar 
 
 ---
 
-## 🚀 What I Bring to a Team
+## What I Bring to a Team
 
 | | |
 |---|---|
-| 🏥 **Health Tech Domain** | Especialista com vivência clínica real — traduzo necessidades do setor em soluções de software eficientes |
-| 🤖 **AI & Cloud** | IA Generativa com AWS Bedrock, Cloud Computing e arquiteturas modernas orientadas a dados de saúde |
-| 🔐 **Cybersecurity** | Fortinet Certified + Cisco · Pentest · LGPD/Data Privacy · Infraestrutura segura |
-| 🌐 **Community Leader** | Líder do AWS Women User Group Goiânia · Referência em comunidade tech |
-| 🎯 **Product Mindset** | De founder a dev — foco em impacto real, não só em código |
+| **Health Tech Domain** | Especialista com vivência clínica real — traduzo necessidades do setor em soluções de software eficientes |
+| **AI & Cloud** | IA Generativa com AWS Bedrock, Cloud Computing e arquiteturas modernas orientadas a dados de saúde |
+| **Cybersecurity** | Fortinet Certified + Cisco · Pentest · LGPD/Data Privacy · Infraestrutura segura |
+| **Community Leader** | Líder do AWS Women User Group Goiânia · Referência em comunidade tech |
+| **Product Mindset** | De founder a dev — foco em impacto real, não só em código |
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🏗️ Founder & Software Developer — LIFE IA Regulação Autônoma
+### Founder & Software Developer — LIFE IA Regulação Autônoma
 > Sistema inteligente com IA para **automatizar a gestão de leitos hospitalares no SUS**, reduzindo filas e otimizando o fluxo de pacientes.
 
 - Tradução de gargalos clínicos complexos em lógica de programação para saúde pública
@@ -55,7 +55,7 @@ Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar 
 
 ---
 
-### 🦷 Clinic AI — Freelance
+### Clinic AI — Freelance
 > Plataforma completa de gestão inteligente para clínicas odontológicas e profissionais de saúde.
 
 - Arquitetura moderna de **microserviços** para reduzir retrabalho e automatizar processos críticos
@@ -66,7 +66,7 @@ Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar 
 
 ---
 
-### 📋 Task Manager
+### Task Manager
 > Sistema de gerenciamento de projetos estilo **Kanban**, com deploy em produção.
 
 - Pipeline CI/CD completo com deploy automatizado na Vercel
@@ -75,7 +75,7 @@ Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar 
 
 ---
 
-### 🌡️ IoT Healthcare Monitoring — Health Tech Solutions
+### IoT Healthcare Monitoring — Health Tech Solutions
 > Hardware + software para **monitoramento ambiental em tempo real** em ambientes clínicos.
 
 - Sensor Arduino para Luminosidade, Temperatura e Umidade
@@ -85,14 +85,14 @@ Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar 
 
 ---
 
-### 🧵 Sistema de Controle de Manufatura — Freelance
+### Sistema de Controle de Manufatura — Freelance
 > Aplicação CRUD responsiva para gerenciamento de pedidos em ateliê de costura — solução replicável para gestão de processos em pequenos negócios.
 
 `React Native` `AsyncStorage` `Firebase`
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages & Frameworks**
 
@@ -128,29 +128,29 @@ Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar 
 
 ---
 
-## 🏅 Certifications & Training
+## Certifications & Training
 
 | Área | Certificação | Carga |
 |---|---|:---:|
-| ☁️ **Cloud & DevOps** | Formação AWS & IA — Oregon EAD | 100h |
-| ☁️ **Cloud & DevOps** | Workshop DevOps na Nuvem — Kenery Serain | 16h |
-| 🔐 **Cybersecurity** | **Fortinet Certified Fundamentals** *(válido até 2027)* | — |
-| 🔐 **Cybersecurity** | Introduction to Cybersecurity & Threat Management — Cisco/SENAI | — |
-| 🔐 **Cybersecurity** | Santander Bootcamp Cibersegurança + DIO Cybersecurity Specialist | 50h |
-| ☕ **Java & Backend** | GFT Start #7 Java + NTT DATA Java e IA | 119h |
-| ☕ **Java & Backend** | API REST com Spring Web, JDBC, Estrutura de Dados | — |
-| 🤖 **AI & Generative AI** | Fundamentos de IA Generativa com AWS Bedrock — Nexa/DIO | 37h |
+|  **Cloud & DevOps** | Formação AWS & IA — Oregon EAD | 100h |
+|  **Cloud & DevOps** | Workshop DevOps na Nuvem — Kenery Serain | 16h |
+|  **Cybersecurity** | **Fortinet Certified Fundamentals** *(válido até 2027)* | — |
+|  **Cybersecurity** | Introduction to Cybersecurity & Threat Management — Cisco/SENAI | — |
+|  **Cybersecurity** | Santander Bootcamp Cibersegurança + DIO Cybersecurity Specialist | 50h |
+|  **Java & Backend** | GFT Start #7 Java + NTT DATA Java e IA | 119h |
+|  **Java & Backend** | API REST com Spring Web, JDBC, Estrutura de Dados | — |
+|  **AI & Generative AI** | Fundamentos de IA Generativa com AWS Bedrock — Nexa/DIO | 37h |
 
 ---
 
-## 🎓 Education
+## Education
 
 | Curso | Instituição | Período |
 |---|---|---|
-| 💻 Análise e Desenvolvimento de Sistemas | PUC Goiás, Goiânia | 08/2024 – 12/2026 |
-| ☁️ Formação AWS — Henrylle Maia | Oregon EAD | 10/2026 |
-| 🦷 Especialização em Ortodontia | Instituto Peres | — |
-| 🎓 Bacharelado em Odontologia | UNITPAC | — |
+| Análise e Desenvolvimento de Sistemas | PUC Goiás, Goiânia | 08/2024 – 12/2026 |
+| Formação AWS — Henrylle Maia | Oregon EAD | 10/2026 |
+| Especialização em Ortodontia | Instituto Peres | — |
+| Bacharelado em Odontologia | UNITPAC | — |
 
 ---
 
@@ -161,7 +161,7 @@ Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 

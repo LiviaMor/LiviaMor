@@ -23,7 +23,7 @@
 
 ## 🧭 About Me
 
-Sou **Ortodontista e Desenvolvedora de Software** com mais de 10 anos de experiência empreendedora no setor de saúde. Essa trajetória única me dá uma perspectiva rara: **entendo os problemas clínicos de dentro e construo as soluções tecnológicas do zero**.
+Sou **Desenvolvedora de Software** com mais de 10 anos de experiência empreendedora no setor de saúde. Essa trajetória única me dá uma perspectiva rara: **entendo os problemas clínicos de dentro e construo as soluções tecnológicas do zero**.
 
 Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar a regulação de leitos hospitalares no SUS — porque sei exatamente onde estão os gargalos.
 

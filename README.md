@@ -6,7 +6,7 @@
 
 # Lívia Mor
 
-**Software Developer · Health Tech Specialist · Cybersecurity Enthusiast**
+**Software Developer · AWS · DevOps · Health Tech Specialist · **
 
 *Founder @ LIFE IA · AWS Women User Group Goiânia Leader*
 

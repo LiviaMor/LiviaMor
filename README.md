@@ -2,7 +2,7 @@
 
 <img src="./unicornio.svg" width="220" alt="Unicórnio Galáctico"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Ao+Universo+e+Al%C3%A9m!;Construindo+o+Futuro+da+HealthTech;AWS+Women+User+Group+Goi%C3%A2nia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6DB33F;0077B5;FF9900&center=true&vCenter=true&width=650&lines=Ao+Universo+e+Al%C3%A9m!;Construindo+o+Futuro;AWS+Women+User+Group+Goi%C3%A2nia)](https://git.io/typing-svg)
 
 # Lívia Mor
 

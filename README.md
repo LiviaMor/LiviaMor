@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./unicorn.svg" width="220" alt="Unicórnio Galáctico"/>
+<img src="./unicornio.svg" width="220" alt="Unicórnio Galáctico"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Ao+Universo+e+Al%C3%A9m!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Ao+Universo+e+Al%C3%A9m!;Construindo+o+Futuro+da+HealthTech;AWS+Women+User+Group+Goi%C3%A2nia)](https://git.io/typing-svg)
 
 # Lívia Mor
 
-**Software Developer · AWS · DevOps · Health Tech Specialist**
+**Software Developer · AWS Cloud · DevOps · HealthTech Specialist**
 
-*Founder @ LIFE IA · AWS Women User Group Goiânia Leader*
+*Leader @ AWS Women User Group Goiânia · Founder @ LIFE IA*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviamor)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@LiviaMorBR)
@@ -20,162 +20,145 @@
 
 ---
 
-## About Me
+## 👩‍⚕️ ➡️ 💻 Sobre Mim
 
-Sou **Desenvolvedora de Software** com mais de 10 anos de experiência empreendedora no setor de saúde. Essa trajetória única me dá uma perspectiva rara: **entendo os problemas clínicos de dentro e construo as soluções tecnológicas do zero**.
+Sou **Desenvolvedora de Software** com mais de 16 anos de experiência e atuação empreendedora no setor de saúde (Cirurgiã-Dentista e Ortodontista). Essa trajetória única me confere uma perspectiva rara no mercado de tecnologia: **eu compreendo gargalos clínicos por dentro e construo soluções arquitetadas do zero**.
 
-Atualmente fundei a **LIFE IA**, um sistema inteligente com IA para automatizar a regulação de leitos hospitalares no SUS — porque sei exatamente onde estão os gargalos.
+Atualmente, sou fundadora da **LIFE IA**, um sistema inteligente que utiliza Inteligência Artificial Generativa para automatizar a regulação de leitos hospitalares no SUS, aplicando tecnologia precisa onde ela é mais urgente.
 
-> *"I don't just code for healthcare. I lived it for 10+ years."*
-
----
-
-## What I Bring to a Team
-
-| | |
-|---|---|
-| **Health Tech Domain** | Especialista com vivência clínica real — traduzo necessidades do setor em soluções de software eficientes |
-| **AI & Cloud** | IA Generativa com AWS Bedrock, Cloud Computing e arquiteturas modernas orientadas a dados de saúde |
-| **Cybersecurity** | Fortinet Certified + Cisco · Pentest · LGPD/Data Privacy · Infraestrutura segura |
-| **Community Leader** | Líder do AWS Women User Group Goiânia · Referência em comunidade tech |
-| **Product Mindset** | De founder a dev — foco em impacto real, não só em código |
+> *"I don't just code for healthcare. I lived it on the frontlines for 16+ years."*
 
 ---
 
-## Experience
+## 🚀 Diferenciais de Entrega (Value Proposition)
 
-### Founder & Software Developer — LIFE IA Regulação Autônoma
-> Sistema inteligente com IA para **automatizar a gestão de leitos hospitalares no SUS**, reduzindo filas e otimizando o fluxo de pacientes.
-
-- Tradução de gargalos clínicos complexos em lógica de programação para saúde pública
-- Arquitetura orientada a IA com foco em escalabilidade e conformidade com LGPD
-- Integração com **DataSUS** e sistemas de regulação hospitalar
-
-`Java` `Spring Boot` `AWS Bedrock` `IA Generativa` `Cloud` `DataSUS`
-
----
-
-### Clinic AI — Freelance
-> Plataforma completa de gestão inteligente para clínicas odontológicas e profissionais de saúde.
-
-- Arquitetura moderna de **microserviços** para reduzir retrabalho e automatizar processos críticos
-- Aumento de eficiência operacional projetado em **20%**
-- UX construída com base em experiência clínica real (frontlines)
-
-`Spring Boot` `Microservices` `React` `MySQL`
+| Capacidade | Impacto no Time |
+| :--- | :--- |
+| **Health Tech Domain** | Vivência clínica real. Tradução ágil de regras de negócio complexas de saúde em software limpo, seguro e eficiente. |
+| **AI & Cloud** | Construção de arquiteturas robustas em nuvem AWS, pipelines de IA com AWS Bedrock e agentes inteligentes. |
+| **Cybersecurity** | Foco ativo em conformidade com a LGPD, segurança defensiva (Pentest) e privacidade de dados médicos. |
+| **Community Leadership** | Liderança ativa do AWS Women User Group Goiânia. Conectando pessoas e disseminando inovação. |
+| **Product Mindset** | Visão estratégica de fundadora. Foco contínuo em experiência de uso (UX), otimização e geração de valor. |
 
 ---
 
-### Task Manager
-> Sistema de gerenciamento de projetos estilo **Kanban**, com deploy em produção.
+## 🛠️ Portfólio & Experiência Prática
 
-- Pipeline CI/CD completo com deploy automatizado na Vercel
+### 🧠 [LIFE IA] Regulação Autônoma — Founder & Lead Developer
+> Sistema inteligente com IA para **automatizar a gestão de leitos hospitalares no SUS**, otimizando filas de espera de forma preditiva.
+- Modelagem de dados integrada às diretrizes de regulação pública.
+- Arquitetura segura de dados e conformidade estrita com a LGPD.
+- **Stacks:** `Java` · `Spring Boot` · `AWS Bedrock` · `GenAI` · `PostgreSQL`
 
-`React` `TypeScript` `CI/CD` `Vercel`
+### 🏥 Clinic AI — Full Stack Developer (Freelance)
+> Plataforma de gestão inteligente desenhada especificamente para clínicas odontológicas e médicas.
+- Arquitetura moderna de microsserviços para reduzir o retrabalho e otimizar agendamentos em tempo real.
+- UX refinada com foco nas dores reais do cotidiano de clínicas de alta rotatividade.
+- **Stacks:** `Spring Boot` · `React` · `MySQL` · `Docker`
 
----
+### 📋 Task Manager
+> Sistema de gerenciamento de projetos em estilo Kanban voltado à produtividade.
+- Pipeline de integração e entrega contínua (CI/CD) totalmente automatizado com deploy em produção.
+- **Stacks:** `React` · `TypeScript` · `CI/CD` · `Vercel`
 
-### IoT Healthcare Monitoring — Health Tech Solutions
-> Hardware + software para **monitoramento ambiental em tempo real** em ambientes clínicos.
+### 🔌 IoT Healthcare Monitoring — Health Tech Solutions
+> Hardware e software integrados para **monitoramento ambiental em tempo real** em salas clínicas e cirúrgicas.
+- Captura de luminosidade, temperatura e umidade via sensores Arduino, transmitidos de forma serial para um backend Java.
+- **Stacks:** `Arduino (C++)` · `Java` · `JSerialComm` · `MySQL`
 
-- Sensor Arduino para Luminosidade, Temperatura e Umidade
-- Dados enviados em tempo real para banco MySQL via JSerialComm (Java)
-
-`Arduino (C++)` `Java` `JSerialComm` `MySQL` `IoT`
-
----
-
-### Sistema de Controle de Manufatura — Freelance
-> Aplicação CRUD responsiva para gerenciamento de pedidos em ateliê de costura — solução replicável para gestão de processos em pequenos negócios.
-
-`React Native` `AsyncStorage` `Firebase`
-
----
-
-## Skills
-
-**Languages & Frameworks**
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Cloud, AI & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Security & Tools**
-
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+### 🧵 Sistema de Controle de Manufatura — Freelance
+> Aplicação CRUD móvel responsiva para controle de processos e gerenciamento de pedidos em ateliê de costura.
+- **Stacks:** `React Native` · `AsyncStorage` · `Firebase`
 
 ---
 
-## Certifications & Training
+## ⚡ Skills & Ecosystem
 
-| Área | Certificação | Carga |
-|---|---|:---:|
-|  **Cloud & DevOps** | Formação AWS & IA — Oregon EAD | 100h |
-|  **Cloud & DevOps** | Workshop DevOps na Nuvem — Kenery Serain | 16h |
-|  **Cybersecurity** | **Fortinet Certified Fundamentals** *(válido até 2027)* | — |
-|  **Cybersecurity** | Introduction to Cybersecurity & Threat Management — Cisco/SENAI | — |
-|  **Cybersecurity** | Santander Bootcamp Cibersegurança + DIO Cybersecurity Specialist | 50h |
-|  **Java & Backend** | GFT Start #7 Java + NTT DATA Java e IA | 119h |
-|  **Java & Backend** | API REST com Spring Web, JDBC, Estrutura de Dados | — |
-|  **AI & Generative AI** | Fundamentos de IA Generativa com AWS Bedrock — Nexa/DIO | 37h |
+### **Languages & Frameworks**
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</div>
+
+### **Cloud, AI & Infrastructure**
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</div>
+
+### **Databases & Tools**
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
 
 ---
 
-## Education
+## 🎓 Educação & Certificações
 
-| Curso | Instituição | Período |
-|---|---|---|
-| Análise e Desenvolvimento de Sistemas | PUC Goiás, Goiânia | 08/2024 – 12/2026 |
-| Formação AWS — Henrylle Maia | Oregon EAD | 10/2026 |
-| Especialização em Ortodontia | Instituto Peres | — |
-| Bacharelado em Odontologia | UNITPAC | — |
+### **Badges Oficiais (Credly)**
+<div align="left">
+  <a href="https://www.credly.com/users/livia-moreira-rocha" target="_blank">
+    <img src="https://images.credly.com/images/154fa112-9721-4fc3-8419-f0270a6c0b9a/image.png" width="105" alt="AWS re/Start Graduate" />
+  </a>
+  <a href="https://www.credly.com/users/livia-moreira-rocha" target="_blank">
+    <img src="https://images.credly.com/images/fa66fb52-671e-450f-a9cb-b2e2d93e18c5/image.png" width="105" alt="Fortinet Certified Fundamentals" />
+  </a>
+</div>
+
+### **Formação Acadêmica**
+* **Inteligência Artificial** — SENAI / FATESG *(Em andamento)*
+* **Análise e Desenvolvimento de Sistemas** — PUC Goiás *(Previsão de Conclusão: 12/2026)*
+* **Especialização em Ortodontia** — Instituto Peres
+* **Bacharelado em Odontologia** — UNITPAC *(Concluído em 2009)*
+
+### **Certificações & Cursos Técnicos**
+* **AWS re/Start Graduate** — AWS Cloud & Infrastructure *(2026)*
+* **Testes de Intrusão (Pentest)** — SENAI
+* **Fortinet Certified Fundamentals (FCF)** — Cybersecurity *(Válido até 2027)*
+* **Formação AWS & IA** — Oregon EAD *(100h)*
+* **Fundamentos de IA Generativa com AWS Bedrock** — Nexa/DIO *(37h)*
+* **Santander Bootcamp Cibersegurança** — DIO Cybersecurity Specialist *(50h)*
 
 ---
 
-## 🌍 Languages
+## 📊 Estatísticas e Atividade
 
-- 🇧🇷 Português — Nativo
-- 🇺🇸 English — Intermediário
-
----
-
-## GitHub Stats
+> *Nota: O contador abaixo rastreia dinamicamente e de forma unificada toda a minha atividade de código e número de commits (`count_private=true`), incluindo repositórios públicos e privados.*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=LiviaMor&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api?username=LiviaMor&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LiviaMor&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens Mais Usadas" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=LiviaMor&theme=cobalt&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=LiviaMor&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=LiviaMor&theme=cobalt&hide_border=true" alt="Streak de Commits" />
 
 </div>
 
+---
+
 <div align="center">
 
-### 🤝 Open to opportunities in AWS · DevOpvs · Backend · Health Tech · AI ###
+### 🤝 Vamos construir algo extraordinário juntos?
+Conecte-se comigo para trocar ideias sobre **Cloud, HealthTech, Inteligência Artificial** ou oportunidades de Engenharia de Software.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviamor)
 

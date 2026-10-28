@@ -30,7 +30,7 @@ Atualmente, aplico minha visão estratégica como fundadora da **LIFE IA**, um s
 
 ---
 
-## 🚀 Diferenciais de Entrega (Value Proposition)
+## Diferenciais de Entrega (Value Proposition)
 
 | Capacidade | Impacto no Time |
 | :--- | :--- |
@@ -41,9 +41,9 @@ Atualmente, aplico minha visão estratégica como fundadora da **LIFE IA**, um s
 
 ---
 
-## 🛠️ Portfólio & Experiência Prática
+## Portfólio & Experiência Prática
 
-### [LIFE IA] Regulação Autônoma — Founder & Lead Developer
+### LIFE IA Regulação Autônoma — Founder & Lead Developer
 > Sistema inteligente open-source com IA para **automatizar a gestão de leitos hospitalares no SUS**. Propriedade Intelectual registrada no INPI.
 - **Stacks:** `FastAPI` · `React Native` · `Llama` · `BioBERT` · `AWS Bedrock`
 

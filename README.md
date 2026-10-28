@@ -37,35 +37,35 @@ Atualmente, aplico minha visão estratégica como fundadora da **LIFE IA**, um s
 | **Health Tech Domain** | Vivência clínica real. Tradução ágil de regras de negócio em soluções de tecnologia em saúde. |
 | **AI, Cloud & Serverless** | Construção de arquiteturas robustas em AWS (Lambda, SQS, DynamoDB) e pipelines com AWS Bedrock. |
 | **Cybersecurity (AppSec)** | Foco ativo em arquiteturas defensivas, conformidade com a LGPD e fundamentos de Pentest. |
-| **Community Leadership** | Co-fundadora e líder do AWS Women User Group Goiânia, conectando o ecossistema cloud local. |
+| **Community Leadership** | Líder do AWS Women User Group Goiânia, conectando o ecossistema cloud local. |
 
 ---
 
 ## 🛠️ Portfólio & Experiência Prática
 
-### 🧠 [LIFE IA] Regulação Autônoma — Founder & Lead Developer
+### [LIFE IA] Regulação Autônoma — Founder & Lead Developer
 > Sistema inteligente open-source com IA para **automatizar a gestão de leitos hospitalares no SUS**. Propriedade Intelectual registrada no INPI.
 - **Stacks:** `FastAPI` · `React Native` · `Llama` · `BioBERT` · `AWS Bedrock`
 
-### 🤖 SecretarIA — Serverless AI Agent
+### SecretarIA — Serverless AI Agent
 > Agente de recepção automatizado para clínicas odontológicas via WhatsApp. Apresentado no AWS Community Day Sudeste Brasil.
 - **Stacks:** `NestJS` · `AWS Lambda` · `Amazon SQS` · `DynamoDB` · `Amazon Bedrock`
 
-### 🏥 NineHealth — Clinic Management Platform
+### NineHealth — Clinic Management Platform
 > Plataforma de gestão inteligente para clínicas, baseada em arquitetura de microsserviços para otimização de fluxos operacionais.
 - **Stacks:** `Java` · `Spring Boot` · `React` · `Docker` · `Microservices`
 
-### 🏍️ CcRoad — Social Network for Motorcyclists
+### CcRoad — Social Network for Motorcyclists
 > Aplicação móvel voltada para motociclistas com rastreamento GPS em tempo real e compartilhamento de rotas ao vivo.
 - **Stacks:** `React Native` · `NestJS` 
 
-### 🔌 IoT Healthcare Monitoring
+### IoT Healthcare Monitoring
 > Hardware e software integrados para monitoramento ambiental de salas clínicas via sensores.
 - **Stacks:** `Arduino (C++)` · `Java` · `JSerialComm`
 
 ---
 
-## ⚡ Skills & Ecosystem
+## Skills & Ecosystem
 
 ### **Linguagens, Frameworks & Mobile**
 <div align="left">
@@ -98,7 +98,7 @@ Atualmente, aplico minha visão estratégica como fundadora da **LIFE IA**, um s
 
 ---
 
-## 📈 Estatísticas & Contribuições 3D
+## Estatísticas & Contribuições 3D
 
 <div align="center">
   
